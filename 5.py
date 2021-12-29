@@ -1,5 +1,7 @@
-#program for convert celcius to fahnrenheit
-#C = (C*9/5)+32
+#program for convert celcius to fahnrenheit, Reamur, Kelvin
+#C = ((C*4/5)+5 R
+#C = (C*9/5)+32 F
+#C = ((C*5)/5)+237 K
 
 C = float(input("Input Celcius : "))
 hasilF = ((C*9)/5)+32
